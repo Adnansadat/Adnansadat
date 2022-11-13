@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adnan Sadat</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdn.dribbble.com/users/116207...](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40gavizoid16%2Fthings-to-do-after-a-coding-bootcamp-9523cd61be91&psig=AOvVaw087uw84zsnbtg3XL37BCM6&ust=1668438701883000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLishdO4q_sCFQAAAAAdAAAAABAF)">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnansadat&label=Profile%20views&color=0e75b6&style=flat" alt="adnansadat" /> </p>
 
