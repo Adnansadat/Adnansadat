@@ -1,15 +1,11 @@
 ![MasterHead](https://chkskills.com/wp-content/uploads/2020/04/PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm Adnan Sadat</h1>
-<h3 align="center">A passionate fullstack web developer from Bangladesh</h3>
+<h3 align="center">A passionate full-stack Software Engineer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*4fNBO_UDYEVxM0E5T2FyJQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adnansadat&label=Profile%20views&color=0e75b6&style=flat" alt="adnansadat" /> </p>
 
-- 🔭 I’m currently working on **Asp.net**
-
-- 🌱 I’m currently learning **Asp.net, HTML, PHP, CSS, JavaScript**
-
-- 💬 Ask me about **HTML, PHP, CSS, JavaScript**
+- 🔭 I’m currently working on **Asp.net core, Angular, TypeScript**
 
 - 📫 How to reach me **adnansadatdip@gmail.com**
 
